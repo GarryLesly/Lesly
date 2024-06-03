@@ -53,7 +53,8 @@ header {
 }
 
 .quote {
-    -size: 1rem;
+    backdrop-filter: blur(10px);
+    font-size: 1rem;
     font-family: 'La Belle Aurore';
     margin-top: 0;
     color: rgb(0, 0, 0);
