@@ -37,23 +37,24 @@ header {
 
 .love {
     margin-bottom: 10px;
+    font-size: 2rem;
     position: absolute;
     bottom: 0;
-    font-family: 'La Belle Aurore', cursive;
+    font-family: 'La Belle Aurore';
     z-index: 12000;
 }
 
 .hero-text {
     font-size: 3rem;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Dancing Script';
     position: relative;
     z-index: 2;
     color: black;
 }
 
 .quote {
-    font-size: 1rem;
-    font-family: 'La Belle Aurore', cursive;
+    font-size: 2rem;
+    font-family: 'La Belle Aurore';
     margin-top: 0;
     color: rgb(0, 0, 0);
     position: center;
@@ -160,7 +161,7 @@ header {
     display: flex;
     cursor: url('https://cdn.discordapp.com/attachments/1108762577602871346/1190700239171104911/image_2.png?') 5 5, auto;
     align-items: center;
-    font-family: 'La Belle Aurore', cursive;
+    font-family: 'La Belle Aurore';
     color: rgb(0, 0, 0);
 }
 
@@ -188,10 +189,10 @@ header {
 }
 
 #popupContent {
-    background: hsla(289, 8%, 60%, 0.356);
+    background: hsla(0, 0%, 0%, 0.356);
     padding: 3rem;
-    font-family: 'La Belle Aurore', cursive;
-    font-size: 1.2rem;
+    font-family: 'La Belle Aurore';
+    font-size: 1.75rem;
     border-radius: 10px;
     max-width: 35%;
     position: relative;
