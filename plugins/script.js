@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
 let heartRateInterval;
 
 function updateHeartRate() {
-    const heartRate = document.getElementById('heartRateSlider').value;
+    const heartRate = 750 - document.getElementById('heartRateSlider').value;
     clearInterval(heartRateInterval);
     heartRateInterval = setInterval(createRain, heartRate);
 }
