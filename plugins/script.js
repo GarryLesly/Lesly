@@ -119,15 +119,15 @@ function toggleMusic() {
 
 
 const quotes = [
-    "Your smile lights up my world.",
-    "Every moment with you feels like magic.",
-    "You’ve captured my heart, Lesly.",
-    "Your laughter is my favorite sound.",
-    "With you, even the simplest things are special.",
-    "You lead me through the dark.",
-    "Your presence makes everything better.",
-    "You are my sunshine on a cloudy day.",
-    "I can't wait to create more memories with you."
+    "You are my world.",
+    "I love you so much",
+    "I cant live without you, Lesly.",
+    "I miss your warmth always.",
+    "You are my guardian angel.",
+    "God, Thank you for Lesly.",
+    "You healed me.",
+    "No one compares to you.",
+    "I can't wait grow with you."
 ];
 
 let currentQuoteIndex = 0;
